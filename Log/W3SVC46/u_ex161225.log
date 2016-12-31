@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-25 15:46:25
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2016-12-25 15:46:25 GET /favicon.ico - 101.25.205.128 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 http://ftp6107549.host535.zhujiwu.me/ ftp6107549.host535.zhujiwu.me 404 4947 369 125
